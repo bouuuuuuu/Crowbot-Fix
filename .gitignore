@@ -1,4 +1,5 @@
 quickdb.sqlite
+json.sqlite
 
 *.sqlite
 *.sqlite3
